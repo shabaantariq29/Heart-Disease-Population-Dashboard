@@ -345,16 +345,15 @@ If the underlying dataset contains personal, confidential, licensed, or restrict
 
 # 🖼️ Screenshots
 
-## Patient Overview & Demographics
 
 ## Patient Overview & Demographics
-![Patient Overview](./Screenshots/overview.png)
+![Patient Overview](./Screenshots/Patient Overview & Demographics.png)
 
 ## Cardiovascular Risk Profile
-![Cardiovascular Risk Profile](./Screenshots/risk-profile.png)
+![Cardiovascular Risk Profile](./Screenshots/Cardiovascular Risk Profile.png)
 
 ## Comorbidities Analysis
-![Comorbidities Analysis](./Screenshots/comorbidities.png)
+![Comorbidities Analysis](./Screenshots/Comorbidities Analysis.png)
 
 
 
