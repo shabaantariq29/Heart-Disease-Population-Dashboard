@@ -268,15 +268,6 @@ A recommended DAX documentation format is:
 | COPD Rate | COPD prevalence | Add exact measure from PBIX |
 | Kidney Disease Rate | Kidney disease prevalence | Add exact measure from PBIX |
 
-### Example documentation pattern
-
-```DAX
-Measure Name =
-    -- Add the actual DAX expression from the PBIX model
-```
-
-**Note:** Do not publish placeholder formulas as if they were the actual calculations. Replace these entries with the measures from your Power BI model.
-
 ---
 
 # 🗂️ Data / Model Description
