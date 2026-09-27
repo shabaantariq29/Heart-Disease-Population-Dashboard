@@ -315,7 +315,7 @@ The PDF does not expose the complete Power BI data model, relationships, source-
 Recommended repository structure:
 
 ```text
-PulseCheck-PowerBI-Dashboard/
+PulseCheck-Population-Health-Analytics-Dashboard/
 │
 ├── README.md
 │
