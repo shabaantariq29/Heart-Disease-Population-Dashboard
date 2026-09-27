@@ -347,17 +347,17 @@ If the underlying dataset contains personal, confidential, licensed, or restrict
 
 ## Patient Overview & Demographics
 
-![Patient Overview](Screenshots/overview.png)
+![Patient Overview](Screenshots/Patient Overview & Demographics.png)
 
 ## Cardiovascular Risk Profile
 
-![Risk Profile](Screenshots/risk-profile.png)
+![Risk Profile](Screenshots/Cardiovascular Risk Profile.png)
 
 ## Comorbidities Analysis
 
-![Comorbidities](Screenshots/comorbidities.png)
+![Comorbidities](Screenshots/Comorbidities Analysis.png)
 
-> Replace the image paths above with the actual screenshot filenames in the repository.
+
 
 ---
 
