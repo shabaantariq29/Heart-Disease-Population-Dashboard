@@ -347,15 +347,15 @@ If the underlying dataset contains personal, confidential, licensed, or restrict
 
 ## Patient Overview & Demographics
 
-![Heart-Disease-Population-Dashboard](./Screenshots/Patient Overview & Demographics.png)
+(./Screenshots/Patient Overview & Demographics.png)
 
 ## Cardiovascular Risk Profile
 
-![Heart-Disease-Population-Dashboard](./Screenshots/Cardiovascular Risk Profile.png)
+(./Screenshots/Cardiovascular Risk Profile.png)
 
 ## Comorbidities Analysis
 
-![Heart-Disease-Population-Dashboard](./Screenshots/Comorbidities Analysis.png)
+(./Screenshots/Comorbidities Analysis.png)
 
 
 
